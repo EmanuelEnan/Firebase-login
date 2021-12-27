@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33310429250",
+    "project_id": "excel-sign-up",
+    "storage_bucket": "excel-sign-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33310429250:android:63551dfd9bc679a9885ddb",
+        "android_client_info": {
+          "package_name": "com.excel.to_do_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33310429250-td3pro0c48vncs2p8r3st37atk7rc78p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDtxmn_LUN3n7z9eccw9kTClyxxaIHJRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33310429250-td3pro0c48vncs2p8r3st37atk7rc78p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
